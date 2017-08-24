@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: kevin.yang
+title: angelgigi
 subtitle:
 description: 博闻强记
-author: kevin.yang
+author: angelgigi
 language: zh-Hans
 timezone:
 
@@ -93,7 +93,7 @@ feed:
 
 # Social links
 social:
-  GitHub: https://github.com/yanglukuan
+  GitHub: https://github.com/angelgigi
   # 
 
 avatar: images/12642715.jpg
